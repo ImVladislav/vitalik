@@ -1,0 +1,280 @@
+Uri: https://amazingbadger.info/
+File Name: C:\Downloaded Web Sites\amazingbadger.info\index.htm
+Content Type: text/html
+
+Uri: https://amazingbadger.info/audio/badgers.mp3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\audio\badgers.mp3
+Content Type: audio/mpeg
+
+Uri: https://amazingbadger.info/favicon/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-114x114.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-120x120.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-144x144.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-152x152.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-60x60.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-72x72.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/apple-icon-76x76.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/favicon-96x96.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/favicon/manifest.json
+File Name: C:\Downloaded Web Sites\amazingbadger.info\favicon\manifest.json
+Content Type: application/json
+
+Uri: https://amazingbadger.info/fu.css
+File Name: C:\Downloaded Web Sites\amazingbadger.info\fu.css
+Content Type: text/css
+
+Uri: https://amazingbadger.info/images/badger.svg
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\badger.svg
+Content Type: image/svg+xml
+
+Uri: https://amazingbadger.info/images/bigmush.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\bigmush.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-1.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-1.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-2.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-2.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-3.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-3.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-4.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-4.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-5.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-5.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-6.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-6.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-7.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-7.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-8.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-8.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/headers/twitter-header-9.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\headers\twitter-header-9.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/logo.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\logo.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/musha1.png
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\musha1.png
+Content Type: image/png
+
+Uri: https://amazingbadger.info/images/rainbow-colors.gif
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\rainbow-colors.gif
+Content Type: image/gif
+
+Uri: https://amazingbadger.info/images/telegram.svg
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://amazingbadger.info/images/volume-off.svg
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\volume-off.svg
+Content Type: image/svg+xml
+
+Uri: https://amazingbadger.info/images/volume-on.svg
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\volume-on.svg
+Content Type: image/svg+xml
+
+Uri: https://amazingbadger.info/images/x.svg
+File Name: C:\Downloaded Web Sites\amazingbadger.info\images\x.svg
+Content Type: image/svg+xml
+
+Uri: https://amazingbadger.info/scripts.js
+File Name: C:\Downloaded Web Sites\amazingbadger.info\scripts.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/jquery-lazyload@1.9.7/jquery.lazyload.min.js
+File Name: C:\Downloaded Web Sites\amazingbadger.info\npm\jquery-lazyload@1.9.7\jquery.lazyload.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\amazingbadger.info\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://p.typekit.net/p.css?s=1&k=bed3jhy&ht=tk&f=35766.35768.35769.35770&a=85017377&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\amazingbadger.info\p-1.css
+Content Type: text/css
+
+Uri: https://p.typekit.net/p.css?s=1&k=fam3zyv&ht=tk&f=53124.53125.53126.53127.53128&a=85017377&app=typekit&e=css
+File Name: C:\Downloaded Web Sites\amazingbadger.info\p.css
+Content Type: text/css
+
+Uri: https://unpkg.com/@lottiefiles/lottie-player@2.0.12/dist/lottie-player.js
+File Name: C:\Downloaded Web Sites\amazingbadger.info\@lottiefiles\lottie-player@2.0.12\dist\lottie-player.js
+Content Type: text/javascript
+
+Uri: https://use.typekit.net/af/362368/00000000000000007735aaac/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\362368\00000000000000007735aaac\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/362368/00000000000000007735aaac/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\362368\00000000000000007735aaac\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/362368/00000000000000007735aaac/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\362368\00000000000000007735aaac\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\459753\0000000000000000774edfff\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\459753\0000000000000000774edfff\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/459753/0000000000000000774edfff/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\459753\0000000000000000774edfff\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/579b5c/00000000000000007735aaa8/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\579b5c\00000000000000007735aaa8\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/579b5c/00000000000000007735aaa8/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\579b5c\00000000000000007735aaa8\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/579b5c/00000000000000007735aaa8/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\579b5c\00000000000000007735aaa8\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\5972d8\0000000000000000774edffe\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\5972d8\0000000000000000774edffe\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/5972d8/0000000000000000774edffe/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\5972d8\0000000000000000774edffe\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/6b5252/00000000000000007735aaa6/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\6b5252\00000000000000007735aaa6\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/6b5252/00000000000000007735aaa6/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\6b5252\00000000000000007735aaa6\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/6b5252/00000000000000007735aaa6/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\6b5252\00000000000000007735aaa6\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\81e9ac\0000000000000000774ee000\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\81e9ac\0000000000000000774ee000\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/81e9ac/0000000000000000774ee000/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\81e9ac\0000000000000000774ee000\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\9d3512\0000000000000000774edffd\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\9d3512\0000000000000000774edffd\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/9d3512/0000000000000000774edffd/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\9d3512\0000000000000000774edffd\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/fd2c83/00000000000000007735aaae/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\fd2c83\00000000000000007735aaae\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/fd2c83/00000000000000007735aaae/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\fd2c83\00000000000000007735aaae\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/fd2c83/00000000000000007735aaae/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\fd2c83\00000000000000007735aaae\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\ff9af6\0000000000000000774ee001\30\a
+Content Type: font/opentype
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\ff9af6\0000000000000000774ee001\30\d
+Content Type: application/font-woff
+
+Uri: https://use.typekit.net/af/ff9af6/0000000000000000774ee001/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3
+File Name: C:\Downloaded Web Sites\amazingbadger.info\af\ff9af6\0000000000000000774ee001\30\l
+Content Type: application/font-woff2
+
+Uri: https://use.typekit.net/bed3jhy.css
+File Name: C:\Downloaded Web Sites\amazingbadger.info\bed3jhy.css
+Content Type: text/css
+
+Uri: https://use.typekit.net/fam3zyv.css
+File Name: C:\Downloaded Web Sites\amazingbadger.info\fam3zyv.css
+Content Type: text/css
+

@@ -1,0 +1,46 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * ccsignlanguage:
+ *   - http://typekit.com/eulas/00000000000000007735aaac
+ *   - http://typekit.com/eulas/00000000000000007735aaa6
+ *   - http://typekit.com/eulas/00000000000000007735aaa8
+ * ccsignlanguagescreamers:
+ *   - http://typekit.com/eulas/00000000000000007735aaae
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-09-10 18:29:31 UTC"}*/
+
+@import url("p-1.css");
+
+@font-face {
+font-family:"ccsignlanguage";
+src:url("af/362368/00000000000000007735aaac/30/l") format("woff2"),url("af/362368/00000000000000007735aaac/30/d") format("woff"),url("af/362368/00000000000000007735aaac/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ccsignlanguage";
+src:url("af/6b5252/00000000000000007735aaa6/30/l") format("woff2"),url("af/6b5252/00000000000000007735aaa6/30/d") format("woff"),url("af/6b5252/00000000000000007735aaa6/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ccsignlanguage";
+src:url("af/579b5c/00000000000000007735aaa8/30/l") format("woff2"),url("af/579b5c/00000000000000007735aaa8/30/d") format("woff"),url("af/579b5c/00000000000000007735aaa8/30/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ccsignlanguagescreamers";
+src:url("af/fd2c83/00000000000000007735aaae/30/l") format("woff2"),url("af/fd2c83/00000000000000007735aaae/30/d") format("woff"),url("af/fd2c83/00000000000000007735aaae/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-ccsignlanguage { font-family: "ccsignlanguage",sans-serif; }
+.tk-ccsignlanguagescreamers { font-family: "ccsignlanguagescreamers",sans-serif; }
+.tk-duckie { font-family: "duckie",sans-serif; }

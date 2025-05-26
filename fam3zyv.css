@@ -1,0 +1,58 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * ringold-clarendon:
+ *   - http://typekit.com/eulas/0000000000000000774edffe
+ * ringold-gym:
+ *   - http://typekit.com/eulas/0000000000000000774ee000
+ * ringold-sans:
+ *   - http://typekit.com/eulas/0000000000000000774edfff
+ * ringold-slab:
+ *   - http://typekit.com/eulas/0000000000000000774ee001
+ * ringold-soft:
+ *   - http://typekit.com/eulas/0000000000000000774edffd
+ *
+ * © 2009-2025 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-06-02 10:55:13 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"ringold-soft";
+src:url("af/9d3512/0000000000000000774edffd/30/l") format("woff2"),url("af/9d3512/0000000000000000774edffd/30/d") format("woff"),url("af/9d3512/0000000000000000774edffd/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ringold-clarendon";
+src:url("af/5972d8/0000000000000000774edffe/30/l") format("woff2"),url("af/5972d8/0000000000000000774edffe/30/d") format("woff"),url("af/5972d8/0000000000000000774edffe/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ringold-slab";
+src:url("af/ff9af6/0000000000000000774ee001/30/l") format("woff2"),url("af/ff9af6/0000000000000000774ee001/30/d") format("woff"),url("af/ff9af6/0000000000000000774ee001/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ringold-sans";
+src:url("af/459753/0000000000000000774edfff/30/l") format("woff2"),url("af/459753/0000000000000000774edfff/30/d") format("woff"),url("af/459753/0000000000000000774edfff/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"ringold-gym";
+src:url("af/81e9ac/0000000000000000774ee000/30/l") format("woff2"),url("af/81e9ac/0000000000000000774ee000/30/d") format("woff"),url("af/81e9ac/0000000000000000774ee000/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-ringold-soft { font-family: "ringold-soft",sans-serif; }
+.tk-ringold-clarendon { font-family: "ringold-clarendon",sans-serif; }
+.tk-ringold-slab { font-family: "ringold-slab",sans-serif; }
+.tk-ringold-sans { font-family: "ringold-sans",sans-serif; }
+.tk-ringold-gym { font-family: "ringold-gym",sans-serif; }
