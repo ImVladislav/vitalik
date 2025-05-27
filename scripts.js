@@ -120,14 +120,14 @@ $(document).ready(function (){
   $('#header1').click(function(){
 var link = document.createElement('a');
         link.href = '/images/headers/twitter-header-1.png';  // use realtive url 
-        link.download = 'VITALIK-header.png';
+        link.download = 'badger-header.png';
         document.body.appendChild(link);
         link.click();     
  });
  $('#header2').click(function(){
   var link = document.createElement('a');
           link.href = '/images/headers/twitter-header-2.png';  // use realtive url 
-          link.download = 'VITALIK-header.png';
+          link.download = 'badger-header.png';
           document.body.appendChild(link);
           link.click();     
    });
@@ -135,7 +135,7 @@ var link = document.createElement('a');
    $('#header3').click(function(){
     var link = document.createElement('a');
             link.href = '/images/headers/twitter-header-3.png';  // use realtive url 
-            link.download = 'VITALIK-header.png';
+            link.download = 'badger-header.png';
             document.body.appendChild(link);
             link.click();     
      });
@@ -143,7 +143,7 @@ var link = document.createElement('a');
      $('#header4').click(function(){
       var link = document.createElement('a');
               link.href = '/images/headers/twitter-header-4.png';  // use realtive url 
-              link.download = 'VITALIK-header.png';
+              link.download = 'badger-header.png';
               document.body.appendChild(link);
               link.click();     
        });
@@ -151,14 +151,14 @@ var link = document.createElement('a');
     $('#header5').click(function(){
         var link = document.createElement('a');
                 link.href = '/images/headers/twitter-header-5.png';  // use realtive url 
-                link.download = 'VITALIK-header.png';
+                link.download = 'badger-header.png';
                 document.body.appendChild(link);
                 link.click();     
          });
     $('#header6').click(function(){
           var link = document.createElement('a');
                   link.href = '/images/headers/twitter-header-6.png';  // use realtive url 
-                  link.download = 'VITALIK-header.png';
+                  link.download = 'badger-header.png';
                   document.body.appendChild(link);
                   link.click();     
            });
@@ -166,7 +166,7 @@ var link = document.createElement('a');
     $('#header7').click(function(){
             var link = document.createElement('a');
                     link.href = '/images/headers/twitter-header-7.png';  // use realtive url 
-                    link.download = 'VITALIK-header.png';
+                    link.download = 'badger-header.png';
                     document.body.appendChild(link);
                     link.click();     
              });
@@ -174,7 +174,7 @@ var link = document.createElement('a');
              $('#header8').click(function(){
               var link = document.createElement('a');
                       link.href = '/images/headers/twitter-header-8.png';  // use realtive url 
-                      link.download = 'VITALIK-header.png';
+                      link.download = 'badger-header.png';
                       document.body.appendChild(link);
                       link.click();     
                });
@@ -182,7 +182,7 @@ var link = document.createElement('a');
                $('#header9').click(function(){
                 var link = document.createElement('a');
                         link.href = '/images/headers/twitter-header-9.png';  // use realtive url 
-                        link.download = 'VITALIK-header.png';
+                        link.download = 'badger-header.png';
                         document.body.appendChild(link);
                         link.click();     
                  });
